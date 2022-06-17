@@ -4,6 +4,9 @@ public class AC_9_Semih {
     public void test1() {
 
     }
+    public void test2(){
+
+    }
 
 
 }
