@@ -8,4 +8,8 @@ public class AC_6_Faruk {
     public void test2(){
 
     }
+
+    public void test3(){
+
+    }
 }
