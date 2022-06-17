@@ -3,5 +3,9 @@ public class AC_8_Seniye {
     public void test1(){
 
     }
-    
+    public void test2(){
+
+
+    }
+
 }
