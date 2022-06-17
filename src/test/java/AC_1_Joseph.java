@@ -1,5 +1,6 @@
 public class AC_1_Joseph {
     //@Test
+
     public void test1() {
 
     }
@@ -11,7 +12,6 @@ public class AC_1_Joseph {
     public void test3() {
 
     }
-
 
 
 }
