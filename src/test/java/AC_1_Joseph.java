@@ -6,4 +6,7 @@ public class AC_1_Joseph {
     public void test2(){
 
     }
+    public void test3(){
+
+    }
 }
