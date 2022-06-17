@@ -4,4 +4,8 @@ public class AC_6_Faruk {
     public void test1(){
 
     }
+
+    public void test2(){
+
+    }
 }
