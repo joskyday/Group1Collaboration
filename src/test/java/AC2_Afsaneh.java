@@ -5,4 +5,9 @@ public class AC2_Afsaneh {
 
 
     }
+    public void test2(){
+
+
+    }
+
 }
