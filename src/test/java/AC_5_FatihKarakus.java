@@ -7,4 +7,8 @@ public class AC_5_FatihKarakus {
         //first commit by fatih
     }
 
+    public void test6(){{
+    //Second commit by Fatih
+    }
+    }
 }
