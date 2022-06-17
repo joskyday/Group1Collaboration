@@ -3,4 +3,7 @@ public class AC_7_Ismayil {
     public void test1(){
 
     }
+    public void test2(){
+
+    }
 }
