@@ -7,10 +7,10 @@ public class AC_10_Zeynep {
     public void test2(){
 
     }
-    public void test3(){
+    public void test3() {
 
     }
-    public void test4(){
+    public void test4() {
 
     }
 }
