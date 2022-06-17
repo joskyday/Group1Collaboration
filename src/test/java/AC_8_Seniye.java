@@ -7,5 +7,8 @@ public class AC_8_Seniye {
 
 
     }
+    public void test3(){
 
+
+    }
 }
