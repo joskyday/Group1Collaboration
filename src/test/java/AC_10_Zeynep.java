@@ -16,4 +16,7 @@ public class AC_10_Zeynep {
     public void test5() {
 
     }
+    public void test6() {
+
+    }
 }
